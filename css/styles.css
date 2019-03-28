@@ -1,0 +1,11 @@
+#easy, #medium, #hard {
+  visibility: visible;
+}
+
+/* #easy, #medium, #hard {
+  display: none;
+} */
+
+.highlight{
+  border: 12px solid blue;
+}
